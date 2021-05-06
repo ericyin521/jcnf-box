@@ -9,7 +9,7 @@
 
 安装并运行脚本
 
-	wget -O jcnfbox.sh https://raw.githubusercontent.com/Netflixxp/jcnf-box/main/jcnfbox.sh && chmod +x jcnfbox.sh && clear && ./jcnfbox.sh
+	wget -O jcnfbox.sh https://raw.githubusercontent.com/eircyin5/jcnf-box/main/jcnfbox.sh && chmod +x jcnfbox.sh && clear && ./jcnfbox.sh
 ***
 
 # 功能说明
@@ -38,7 +38,7 @@
 	- v2-ui一键安装
 	- wulabing一键xray脚本
 
-![功能列表](https://github.com/Netflixxp/jcnf-box/blob/main/img/sm.png)
+![功能列表](https://github.com/ericyin521/jcnf-box/blob/main/img/sm.png)
 ***
 
 # 免责声明
